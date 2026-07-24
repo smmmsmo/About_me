@@ -1,6 +1,6 @@
-# Backend, Systems, Automation, and Operations
+# Backend, Systems, Automation, Security, and Operations
 
-My interests increasingly meet at the boundary between backend development, Linux systems, networking, automation, deployment, and operations.
+My interests increasingly meet at the boundary between backend development, Linux systems, networking, automation, cybersecurity, deployment, and operations.
 
 ## Backend Development
 
@@ -45,6 +45,31 @@ These are learning directions, not claims of current mastery.
 My interest in automation partly came from seeing bots perform repetitive tasks in games and continue making progress while I was away. That made automation feel practical and enjoyable.
 
 I like the idea of identifying repetition, expressing the process as logic, and allowing software to handle it reliably. I want to apply that curiosity to useful personal tools and real systems.
+
+## Where My Cybersecurity Curiosity Began
+
+My interest in cybersecurity grew from several early experiences that showed me the difference between what a system displays and what it does underneath.
+
+When I was young, I used an Android keylogger application that retained what I typed across applications, associated records with applications or times, and kept a history for weeks. It could even reveal a password I had forgotten. That exposure made me curious about how software can observe input, preserve sensitive information, and be used for very different purposes.
+
+I later experimented with an application that brute-forced a school Wi-Fi password. This happened within the broader context of being the informal technology helper for people around me, including teachers. The experience sparked curiosity about authentication, password security, and how protective barriers can be tested.
+
+At university, I recognized patterns in course-resource URLs. By changing term-related parts of a URL, I found additional lecture materials for courses I was eligible to access. I told teachers about this, and they did not object to my use of those eligible resources.
+
+I noticed a similar pattern on MIT's public website: some useful public resources were not prominent on the initial page but could be found by understanding the URL structure.
+
+These experiences developed my interest in:
+
+- web and application security;
+- authentication and access control;
+- network security;
+- input capture and keylogger concepts;
+- predictable resource identifiers;
+- content discovery;
+- the difference between interface visibility and system behavior; and
+- understanding how protections work and fail.
+
+I do not present myself as a security professional or “hacker.” Cybersecurity is a field I want to explore more deeply after building strong foundations, with the goal of understanding systems and using that knowledge constructively.
 
 ## Open-Source Contribution
 
