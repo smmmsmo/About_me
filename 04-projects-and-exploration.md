@@ -31,6 +31,12 @@ I am currently using AI assistants as learning collaborators while expanding int
 
 ## Areas I Want to Explore
 
+### Cybersecurity
+
+Early exposure to keylogging behavior, password brute-forcing, predictable URL structures, and public-resource discovery sparked my curiosity about cybersecurity.
+
+I want to build the foundations needed to study web and application security, authentication, access control, network security, defensive practices, and responsible security testing. This is a long-term learning direction, not a claim of professional security experience.
+
 ### Artificial intelligence and machine learning
 
 I am interested in AI and machine learning, particularly where they support academic work, research, or useful projects. I am still determining whether this will become a central field or remain one part of a broader technical path.
@@ -45,7 +51,7 @@ Hardware is currently a weak area, but I am not afraid of it. I want to approach
 
 ### Mathematics
 
-My mathematical foundation is currently weak. I want to improve it because mathematics supports algorithms, AI, research, computer vision, and graduate study.
+My mathematical foundation is currently weak. I want to improve it because mathematics supports algorithms, AI, research, computer vision, cybersecurity, and graduate study.
 
 ## My Attitude Toward Weakness
 
