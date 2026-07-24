@@ -4,26 +4,26 @@
 
 My name is **SM Mostofa Morshed Sayeem**, but call me **Mo**—naturally, as a friend would.
 
-I am a BSc Computer Science student, practical builder, Linux user, and lifelong learner. My relationship with technology began by helping people in and around my rural village solve everyday problems. I now want to deepen that ability through programming, systems, backend development, databases, automation, open source, research, and carefully chosen areas of exploration.
+I am a BSc Computer Science student, practical builder, Linux user, open-education advocate, and lifelong learner. My relationship with technology began by helping people in and around my rural village solve everyday problems. I now want to deepen that ability through programming, systems, backend development, databases, automation, cybersecurity, open source, research, and carefully chosen areas of exploration.
 
-This repository is a living profile. It separates what I already know, what I am actively learning, what I have built, and what I may explore later.
+This repository is the evolving content foundation for a future personal website. It separates what I already know, what I am actively learning, what I have built, what shaped me, and what I may explore later.
 
 ## Profile Map
 
 1. [Story and Values](01-story-and-values.md)  
-   Why I chose computer science, helping people through technology, open source, accessible education, kindness, and the person I want to become.
+   Why I chose computer science, helping people through technology, open source, MIT and open education, kindness, and the person I want to become.
 
 2. [Programming and Technical Foundations](02-technical-foundations.md)  
    C/C++, Java and academic DSA, beginner Python, Linux, SSH, networking, databases, and possible TypeScript or Go exploration.
 
-3. [Backend, Systems, Automation, and Operations](03-backend-systems-and-operations.md)  
-   PostgreSQL, Supabase, Vercel, backend development, automation, deployments, open source, and my possible DevOps direction.
+3. [Backend, Systems, Automation, Security, and Operations](03-backend-systems-and-operations.md)  
+   PostgreSQL, Supabase, Vercel, backend development, automation, deployments, cybersecurity origins, open source, and my possible DevOps direction.
 
 4. [Projects and Areas of Exploration](04-projects-and-exploration.md)  
-   My university library management system, an open-source clothing platform deployment, project philosophy, AI, computer vision, Raspberry Pi, hardware, and mathematics.
+   My university library management system, an open-source clothing platform deployment, project philosophy, cybersecurity, AI, computer vision, Raspberry Pi, hardware, and mathematics.
 
 5. [Learning Style, Goals, and AI Context](05-learning-goals-and-ai-context.md)  
-   How to teach and correct me, my goals before graduation, long-term direction, and a complete copy-paste profile for ChatGPT, Claude, or another AI assistant.
+   How to teach and correct me, MIT and OSSU, my goals before graduation, long-term direction, and a complete copy-paste profile for ChatGPT, Claude, or another AI assistant.
 
 ## Current Technical Snapshot
 
@@ -37,6 +37,7 @@ This repository is a living profile. It separates what I already know, what I am
 | PostgreSQL and databases | Actively learning |
 | Supabase and Vercel | Practical project experience |
 | Backend and operations | Growing interest |
+| Cybersecurity | Long-term interest shaped by early hands-on exposure; not professional expertise |
 | TypeScript and Go | Future exploration, not current expertise |
 | Competitive programming | Casual and occasional hobby |
 
@@ -46,6 +47,10 @@ This repository is a living profile. It separates what I already know, what I am
 - Adapted an existing open-source **clothing buy-and-sell platform** for an IT company and deployed it on their server.
 
 I value honest descriptions. Interests and future directions should never be presented as mastered skills, and adapted open-source work should never be described as an entirely original system.
+
+## Education and Aspiration
+
+I love MIT's systems, course design, clarity, innovation, and commitment to accessible knowledge through **MIT OpenCourseWare**. I also learn through **Open Source Society University (OSSU)**. Studying at MIT is a serious future aspiration, while contributing to open education is part of the person I hope to become.
 
 ## Central Principle
 
