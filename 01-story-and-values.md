@@ -30,6 +30,19 @@ I have benefited from Linux and other open-source work. I want to contribute bac
 
 I believe education should be free and accessible. I hope to teach children someday and help them approach knowledge without unnecessary fear.
 
+Two open-education systems have influenced me directly:
+
+- **MIT OpenCourseWare (MIT OCW)** gives independent learners access to carefully designed MIT course materials.
+- **Open Source Society University (OSSU)** organizes high-quality, freely accessible resources into a structured computer science curriculum.
+
+I have learned from MIT OCW and OSSU. I hope to contribute to the open-education ecosystem someday through my time, technical work, teaching, or financial support when I am able.
+
+### Why MIT Matters to Me
+
+I love MIT—not only as a famous university, but as a system and an educational philosophy. I admire its course design, clarity, innovation, technical culture, and willingness to share knowledge openly through MIT OCW.
+
+Studying at MIT in the future is a serious aspiration. It is not presented as a guaranteed destination. The aspiration represents the standard of rigor, openness, and innovation toward which I want to work.
+
 ### Kindness
 
 My instinct to help is not limited to technology. I feed stray dogs by my own choice. Helping a person or animal in need makes me feel genuinely good.
