@@ -4,10 +4,10 @@ My interests increasingly meet at the boundary between backend development, Linu
 
 ## Backend Development
 
-I want to understand how complete backend systems work, including:
+I want to understand complete backend systems, including:
 
 - how clients communicate with servers;
-- APIs and HTTP;
+- HTTP and APIs;
 - data modeling and databases;
 - authentication and authorization;
 - validation and error handling;
@@ -16,61 +16,79 @@ I want to understand how complete backend systems work, including:
 - deployment; and
 - monitoring and maintenance.
 
-I am considering TypeScript or Go as a future backend language. Learning a language alone will not create backend understanding; it will only provide a tool through which I can study the larger system.
+I am following a bottom-up full-stack path rather than choosing a framework first. TypeScript, Node.js, PostgreSQL, React, and a suitable backend framework are part of that target path. Go remains a possible future systems/backend language.
+
+A language alone will not create backend understanding; it is only a tool through which I can study the larger system.
 
 ## PostgreSQL, Supabase, and Vercel
 
-I am currently learning PostgreSQL and databases. I have already worked with **Supabase** and **Vercel** while building and deploying projects.
+I am actively learning PostgreSQL and database fundamentals. I have worked with **Supabase** and **Vercel** while building and deploying projects.
 
-Using these services gives me relevant practical exposure, but I do not want to exaggerate it as complete database, cloud, or infrastructure expertise. I want to understand the services beneath the convenient platform interface.
+This gives me useful practical exposure, but I do not present it as complete database, cloud, or infrastructure expertise. I want to understand the services beneath convenient platform interfaces.
 
-## Possible DevOps Direction
+## Systems and Operations Experience
 
-I may be leaning toward DevOps because I enjoy Linux, SSH, deployments, servers, networking, databases, and automation. At present, the most accurate description is that I am **exploring backend, platform, and operations work**.
+My Raspberry Pi server **Sparkle** has turned operations from a theoretical interest into practical learning.
 
-Areas I may study as this direction develops include:
+I have worked with:
 
-- Git-based collaboration;
-- testing and CI/CD pipelines;
+- Debian server installation and maintenance;
+- SSH and key-based access;
+- Linux users, groups, permissions, sudo, and ACLs;
+- systemd services and logs;
+- shared development workspaces;
+- security maintenance with Fail2Ban and unattended upgrades;
+- network and resource monitoring;
+- service activation, deactivation, and port verification;
+- troubleshooting; and
+- reusable documentation.
+
+This is meaningful early experience, but I still describe myself as learning rather than as an experienced systems administrator.
+
+## DevOps Direction
+
+I may be leaning toward DevOps because I enjoy Linux, SSH, deployments, servers, networking, databases, and automation. The most accurate current description is:
+
+> I am building practical foundations across backend development, systems, platform work, and operations.
+
+Areas still developing include:
+
+- CI/CD pipelines;
 - containers and Docker;
-- server and cloud deployment;
+- cloud infrastructure;
 - configuration and secrets management;
-- logs, monitoring, and reliability; and
-- repeatable infrastructure and operational automation.
+- observability and reliability;
+- automated testing and deployment; and
+- reproducible infrastructure.
 
-These are learning directions, not claims of current mastery.
+## Automation and Agents
 
-## Automation
+My interest in automation partly came from seeing bots perform repetitive tasks in games and continue making progress while I was away.
 
-My interest in automation partly came from seeing bots perform repetitive tasks in games and continue making progress while I was away. That made automation feel practical and enjoyable.
+I like identifying repetition, expressing the process as logic, and letting software handle it reliably. In the future, I imagine personal systems monitored by agents that notify me only when human attention is genuinely required. The purpose is not merely technical convenience—it is to protect time for family and life.
 
-I like the idea of identifying repetition, expressing the process as logic, and allowing software to handle it reliably. I want to apply that curiosity to useful personal tools and real systems.
+## Cybersecurity Curiosity
 
-## Where My Cybersecurity Curiosity Began
+My cybersecurity interest began through early experimentation with input logging, password security, predictable URLs, and discovering resources through URL patterns. These experiences made me curious about the difference between what an interface displays and what a system actually does.
 
-My interest in cybersecurity grew from several early experiences that showed me the difference between what a system displays and what it does underneath.
-
-When I was young, I used an Android keylogger application that retained what I typed across applications, associated records with applications or times, and kept a history for weeks. It could even reveal a password I had forgotten. That exposure made me curious about how software can observe input, preserve sensitive information, and be used for very different purposes.
-
-I later experimented with an application that brute-forced a school Wi-Fi password. This happened within the broader context of being the informal technology helper for people around me, including teachers. The experience sparked curiosity about authentication, password security, and how protective barriers can be tested.
-
-At university, I recognized patterns in course-resource URLs. By changing term-related parts of a URL, I found additional lecture materials for courses I was eligible to access. I told teachers about this, and they did not object to my use of those eligible resources.
-
-I noticed a similar pattern on MIT's public website: some useful public resources were not prominent on the initial page but could be found by understanding the URL structure.
-
-These experiences developed my interest in:
+My interests include:
 
 - web and application security;
 - authentication and access control;
 - network security;
-- input capture and keylogger concepts;
-- predictable resource identifiers;
-- content discovery;
-- the difference between interface visibility and system behavior; and
+- defensive practices;
+- secure system design;
+- content and resource discovery; and
 - understanding how protections work and fail.
 
-I do not present myself as a security professional or “hacker.” Cybersecurity is a field I want to explore more deeply after building strong foundations, with the goal of understanding systems and using that knowledge constructively.
+I do not present myself as a security professional or “hacker.” Cybersecurity is a long-term learning direction that should be explored through authorized research and controlled environments.
+
+## AI Red-Teaming and Model Safety
+
+I am interested in authorized AI red-teaming and reproducible model-safety evaluation. Multilingual English–Bangla safety research is one possible direction because it connects technical research with an underrepresented language context.
+
+This is an emerging research interest, not a claim of established expertise.
 
 ## Open-Source Contribution
 
-Because I use and benefit from open-source software, especially in the Linux ecosystem, I want to contribute back. My goal is not contribution for appearance or résumé decoration. I want to understand a project, find something genuinely useful to improve, and participate responsibly.
+Because I use and benefit from open-source software, especially in the Linux ecosystem, I want to contribute back. My goal is not contribution for appearance. I want to understand a project, find something genuinely useful to improve, and participate responsibly.
